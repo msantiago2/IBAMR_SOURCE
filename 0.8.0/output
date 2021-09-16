@@ -1,0 +1,163 @@
+WHAT DOES MY MESH LOOK LIKE
+ Mesh Information:
+  elem_dimensions()={3}
+  spatial_dimension()=3
+  n_nodes()=11340
+    n_local_nodes()=527
+  n_elem()=8771
+    n_local_elem()=363
+    n_active_elem()=8771
+  n_subdomains()=1
+  n_partitions()=24
+  n_processors()=24
+  n_threads()=1
+  processor_id()=0
+
+
+
+IBFEMethod: mesh part 0 is using FIRST order LAGRANGE finite elements.
+
+
+
+Writing visualization files...
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 0
+Simulation time is 0
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 0
+Simulation time is 0.0001
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 1
+Simulation time is 0.0001
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 1
+Simulation time is 0.0002
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 2
+Simulation time is 0.0002
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 2
+Simulation time is 0.0003
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 3
+Simulation time is 0.0003
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 3
+Simulation time is 0.0004
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 4
+Simulation time is 0.0004
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 4
+Simulation time is 0.0005
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 5
+Simulation time is 0.0005
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 5
+Simulation time is 0.0006
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 6
+Simulation time is 0.0006
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 6
+Simulation time is 0.0007
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 7
+Simulation time is 0.0007
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 7
+Simulation time is 0.0008
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 8
+Simulation time is 0.0008
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 8
+Simulation time is 0.0009
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 9
+Simulation time is 0.0009
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 9
+Simulation time is 0.001
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Writing state data...
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 10
+Simulation time is 0.001
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 10
+Simulation time is 0.0011
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 11
+Simulation time is 0.0011
+Max Jacobian 1
+Min Jacobian 1
+
+At end       of timestep # 11
+Simulation time is 0.0012
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++++
+At beginning of timestep # 12
+Simulation time is 0.0012
+slurmstepd: error: *** JOB 2207756 ON mrcd88 CANCELLED AT 2021-06-28T10:29:05 ***
